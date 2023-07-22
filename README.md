@@ -10,3 +10,4 @@
 - When click any color it makes a sound. Each color has different sound.
 
 ![Alt text](Screenshot_1689981097-1.png =50x200)
+<img src="Screenshot_1689981097-1.png" width="200" height="400">
